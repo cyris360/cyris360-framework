@@ -3,6 +3,7 @@
 ### Strategy & Metrics
 
 * Setting up cybersecurity program 
+* Setting up a team (security champions)
 * Vulnerability dashboard (defectdojo)
 
 ### Policy & Compliance
