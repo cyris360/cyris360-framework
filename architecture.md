@@ -1,4 +1,4 @@
-There are two distincts domains where secure architecture applies: The infrastructure and the product. 
+There are two distincts domains where secure architecture applies: The infrastructure and the product portfolio. 
 Depending on the target organization and the type of products delivered, these domains might partially overlap.
 
 ## Infrastructure security
@@ -7,14 +7,18 @@ The following activities are part of secure architecture:
 * Network Security
 * Identity and Access Management (for your employees)
 * Secret Management
+* Data Protection
 * Vulnerabilty Management
 * Patch Management 
-* Logging & Monitoring 
+* Logging & Monitoring
+* Cloud Security Posture Management
 
 ## Product security
 A product might be running entirely in your own environment (API/Online service), in an external environment (Offline mobile app) or a combination of both (Web application/Connected mobile app). In all cases, you need to adopt a secure software development lifecycle specific to your product portfolio. The main difference lies in the operation step. 
 The following activities are part of product architecture: 
-* Secure Design 
+* Security Requirements
+* Secure Build Environment
+* Secure Design & Reusable Reference Architcture
 * Secure Implementation 
-* Secure testing 
-* Secure release and deployment
+* Secure Testing 
+* Secure Release and Deployment
