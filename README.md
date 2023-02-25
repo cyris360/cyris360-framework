@@ -5,7 +5,7 @@ In order to set up and operate a successful cybersecurity program, CYRIS360 fram
 * [1. Cybersecurity Governance](/governance.md)
   * [1.1 Program & Metrics](/1-gov/1-1-program-and-metrics.md)
   * [1.2 Policy & Compliance]()
-  * [Training & Awareness]()
+  * [1.3 Training & Awareness]()
   
 * [2. Cybersecurity Architecture](/architecture.md)
   * [2.1 Infrastructure Security]()
