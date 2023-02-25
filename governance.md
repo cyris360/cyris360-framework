@@ -1,16 +1,11 @@
 ## Cybersecurity Governance
 
-### Cybersecurity Program & Metrics
+### [Cybersecurity Program & Metrics](/1-gov/1-1-program-and-metrics.md)
 
-* Assets inventory & Attack Surface (Known-Unknown Matrix)
-* Responsible Disclosure Program (RDP)
-* Cybersecurity in the supply chain (Shadow IT & Third Party Risks)
-* Setting up a cybersecurity program
-* Dashboard: Cybersecurity Maturity & Risks
-* Insourcing/Outsourcing cybersecurity roles:
-  * Fractional/Virtual-CISO
-  * Security Champions
-  * European Cybersecurity Skills Framework (ECSF)
+1. Scope & Business context 
+2. Cybersecurity objectives & Gap assessment 
+3. Roadmap: Insourcing & Outsourcing 
+4. Dashboard: Risk & ROI metrics  
 
 ### Policy & Compliance
 
