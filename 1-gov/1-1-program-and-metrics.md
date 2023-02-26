@@ -1,10 +1,10 @@
 # 1.1. Cybersecurity Program & Metrics
 
 ## Content
-* [1.1.1 Scope & Business context](/#111-Scope--Business-context)
-* [1.1.2. Cybersecurity Objectives & Gap assessment](/#112-cybersecurity-objectives--gap-assessment) 
-* [1.1.3. Roadmap: Insourcing & Outsourcing](/#113-cybersecurity-roadmap-Insourcing--outsourcing)
-* [1.1.4. Dashboard: Risk & ROI metrics](/#114-cybersecurity-dashboard-risk--roi-metrics)
+* [1.1.1 Scope & Business context](#111-Scope--Business-context)
+* [1.1.2. Cybersecurity Objectives & Gap assessment](#112-cybersecurity-objectives--gap-assessment) 
+* [1.1.3. Roadmap: Insourcing & Outsourcing](#113-cybersecurity-roadmap-Insourcing--outsourcing)
+* [1.1.4. Dashboard: Risk & ROI metrics](#114-cybersecurity-dashboard-risk--roi-metrics)
 
 ## 1.1.1. Scope & business context 
 
