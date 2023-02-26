@@ -1,6 +1,6 @@
 This step include all operational security activities, both recurrent or unforseen. In many cases, the same term might be used both in security architecture and security operations. Nevertheless, the the focus in architecture is focused on making strategic technical decisions, while the focus here is, well, on operations.
 
-## Incident Response
+## [Incident Response](/3-ops/3-1-incident-management.md)
 * Triaging and reviewing security events
   * Responsible Disclosure
   * Security Alerts (Unusual behaviour)
