@@ -1,11 +1,14 @@
 # CYRIS360 Framework
 
-In order to set up and operate a successful cybersecurity program, CYRIS360 framework can help you align your business objectives with the right and proportionate spending. This can be done in three simple & cohesive steps:
+In order to set up and operate a successful cybersecurity program, you can use CYRIS360 framework and shape it to your own organization. 
+The framework is designed to be customizable and provide step by step guide to go from zero to hero in a short time.
+The purpose if the framework is to help you align your business objectives with the right and proportionate spending. 
+This can be done in three simple & cohesive steps:
 
 * [1. Cybersecurity Governance](/governance.md)
   * [1.1 Program & Metrics](/1-gov/1-1-program-and-metrics.md)
-  * [1.2 Policy & Compliance]()
-  * [1.3 Training & Awareness]()
+  * [1.2 Policy & Compliance](/1-gov/1-2-policy-and-compliance.md)
+  * [1.3 Training & Awareness](/1-gov/1-3-training-and-awareness.md)
   
 * [2. Cybersecurity Architecture](/architecture.md)
   * [2.1 Infrastructure Security]()
