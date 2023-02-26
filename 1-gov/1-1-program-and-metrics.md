@@ -1,9 +1,9 @@
 # 1.1. Cybersecurity Program & Metrics
 
 ## Content
-* [1.1.1 Scope & Business context](#111-Scope--Business-context)
+* [1.1.1 Scope & Business context](#111-scope--business-context)
 * [1.1.2. Cybersecurity Objectives & Gap assessment](#112-cybersecurity-objectives--gap-assessment) 
-* [1.1.3. Roadmap: Insourcing & Outsourcing](#113-cybersecurity-roadmap-Insourcing--outsourcing)
+* [1.1.3. Roadmap: Insourcing & Outsourcing](#113-cybersecurity-roadmap-insourcing--outsourcing)
 * [1.1.4. Dashboard: Risk & ROI metrics](#114-cybersecurity-dashboard-risk--roi-metrics)
 
 ## 1.1.1. Scope & business context 
@@ -43,7 +43,7 @@
 
 **Rational**: Align the expectation between the CISO and senior management. 
 
-**Hint/Caveat**: When hiring a cybersecurity professional, you can use the [ECSF](https://www.enisa.europa.eu/topics/education/european-cybersecurity-skills-framework) to create the job description.
+**Hint/Caveat**: When hiring a cybersecurity professional, you can use the [[1](#1-ecsf-enisa),[2](#2-ecsf-sans)] to create the job description.
 
 ## 1.1.4. Cybersecurity Dashboard: Risk & ROI metrics  
 
@@ -55,3 +55,7 @@
 **Rational**: Gain the trust of senior management by providing continous feedback and actionable recomendations.
 
 **Caveat**: Measuring the ROI on cybersecurity projects is very challenging. Do not confuse the risk of an incident with the actual occurence of an incident.
+
+## References
+#### 1. [ECSF ENISA](https://www.enisa.europa.eu/topics/education/european-cybersecurity-skills-framework)
+#### 2. [ECSF SANS](https://www.sans.org/ecsf-framework/)
