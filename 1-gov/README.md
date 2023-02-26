@@ -1,13 +1,11 @@
 ## Cybersecurity Governance
+[1.1 Cybersecurity Program & Metrics](/1-gov/1-1-program-and-metrics.md)
+  1. Scope & Business context 
+  2. Cybersecurity objectives & Gap assessment 
+  3. Roadmap: Insourcing & Outsourcing 
+  4. Dashboard: Risk & ROI metrics  
 
-### [Cybersecurity Program & Metrics](/1-gov/1-1-program-and-metrics.md)
-
-1. Scope & Business context 
-2. Cybersecurity objectives & Gap assessment 
-3. Roadmap: Insourcing & Outsourcing 
-4. Dashboard: Risk & ROI metrics  
-
-### Policy & Compliance
+[1.2 Policy & Compliance](/1-gov/1-2-policy-and-compliance.md)
 
 * ISO27002 Controls
 * NIST Cybersecurity Framework (CSF)
@@ -21,7 +19,7 @@
   *  Healthcare (NEN 7510, HIPAA, HITRUST CSF)
   *  Automotive (UN ECE R155 & R156)
 
-### Education & Guidance
+[1.3 Education & Guidance](/1-gov/1-3-education-and-guidance)
 
 * Security Awarenss & Discipline
   * Security policies
