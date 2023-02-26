@@ -1,4 +1,5 @@
 ## Cybersecurity Governance
+
 [1.1 Cybersecurity Program & Metrics](/1-gov/1-1-program-and-metrics.md)
   1. Scope & Business context 
   2. Cybersecurity objectives & Gap assessment 
@@ -19,7 +20,7 @@
   *  Healthcare (NEN 7510, HIPAA, HITRUST CSF)
   *  Automotive (UN ECE R155 & R156)
 
-[1.3 Education & Guidance](/1-gov/1-3-education-and-guidance)
+[1.3 Education & Guidance](/1-gov/1-3-education-and-guidance.md)
 
 * Security Awarenss & Discipline
   * Security policies
