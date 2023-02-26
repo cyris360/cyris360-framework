@@ -1,5 +1,10 @@
 # 1. Cybersecurity Governance
 
+* [1. Cybersecurity Governance](/1-gov/README.md)
+  * [1.1 Program & Metrics](/1-gov/1-1-program-and-metrics.md)
+  * [1.2 Policy & Compliance](/1-gov/1-2-policy-and-compliance.md)
+  * [1.3 Training & Awareness](/1-gov/1-3-training-and-awareness.md)
+
 ## [1.1. Cybersecurity Program & Metrics](/1-gov/1-1-program-and-metrics.md)
 
 * 1.1.1. Scope & Business context 
