@@ -48,7 +48,7 @@
 ## 1.1.4. Cybersecurity Dashboard: Risk & ROI metrics  
 
 **Objectives:**
-* Review the risks identified in [1.1.2](/#111-Scope--Business-context) regurarly and identify potential emerging risks.
+* Review the risks identified in [1.1.2](#111-Scope--Business-context) regurarly and identify potential emerging risks.
 * Measure the progress on ongoing projects and the budget spent, and calculate the ROI.
 * If needed: Adjust the cybersecurity objectives
 
