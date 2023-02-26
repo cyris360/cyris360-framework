@@ -11,8 +11,8 @@ This can be done in three simple & cohesive steps:
   * [1.3 Training & Awareness](/1-gov/1-3-training-and-awareness.md)
   
 * [2. Cybersecurity Architecture](/architecture.md)
-  * [2.1 Infrastructure Security]()
-  * [2.2 Product Security]()
+  * [2.1 Infrastructure Security](/2-arch/2-1-infrastructure-security)
+  * [2.2 Product Security](/2-arch/2-2-product-security.md)
 * [3. Cybersecurity Operations](/operations.md)
-  * [3.1 Incident Management]()
+  * [3.1 Incident Management](/3-ops/3-1-incident-management.md)
   * [3.2 Recurrent Activities]()
