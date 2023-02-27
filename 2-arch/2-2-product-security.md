@@ -17,7 +17,7 @@
 
 **Rational**: The security requirements can be used to implement the approporiate security measure against known attack scenarios.
 
-**Caveat**: 
+**Hint/Caveat**: Some security requirements can be tested and validated using automated checks (same as QA testing), make sure your take advantage of that.
 
 ## 2.2.2. Secure Build Environment
 
@@ -32,7 +32,8 @@
 ## 2.2.3. Secure Design
 
 **Objectives**:
-* Perform threat modeling [[3](#3-threat-modeling-manifesto)].
+* Create threat models and update them regurargly or after every major or security-relevant change [[3](#3-threat-modeling-manifesto)].
+* Promote the use of reusable reference architecture that are secure by design, based on best practices from your cloud provider [[4](#4-aws-wat-security),[5](#5-microsoft-waf-security),[6](#6-google-caf-security)].
 
 ## 2.2.4. Secure Implementation
 **Objectives**:
@@ -42,14 +43,26 @@
 **Hint/Caveat**: Many security scanning tools might wrongly raise false alerts, and reviewing all findings might be time consuming, particurarly with products with large code base. Make sure you don't train your developers to ignore all findings alltogether.  
 
 ## 2.2.5. Secure Testing
+**Objectives**:
+* Elaborate a security testing strategy depending on the risk and available budget.
+* Create sceanrio-based test plans based on the predefined threat model, or threats scenarios applicable to similar products.
+* Perform generic testing (such as fuzzing) to address residual risk from scenarios that are not addressed in existing test plans. 
 
-TBD
+**Hint/Caveat**: In case of products running on external (untrusted) environment (such as mobile app running on end-user's device) make sure you address test scenarios related to reverse engineering, physical attack, fault injection and side channel attack.
 
 ## 2.2.6. Secure Release and Deployment
 
-TBD
+**Objectives**:
+* Define a formal release process with a checklist of relevant preconditions prior to promoting the application to public use.
+* Sign the deliverable code using the organization's cryptographic key and make sure it is verified before processing any senstive data.
+* Set up the approporiate security logging and monitoring. 
+
+**Hint/Caveat**: If your business operate in B2B2C, you might consider pushing part of the liabilty to the intermidiate business. 
 
 ## Reference
 #### 1. [OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/)
 #### 2. [OWASP MASVS](https://mas.owasp.org/MASVS/)
 #### 3. [Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org/)
+#### 4. [AWS WAT Security](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar)
+#### 5. [Microsoft WAF Security](https://learn.microsoft.com/en-us/azure/architecture/framework/security/)
+#### 6. [Google CAF Security](https://cloud.google.com/architecture/framework/security)
