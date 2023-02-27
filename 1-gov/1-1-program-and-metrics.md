@@ -1,10 +1,10 @@
-# 1.1. Cybersecurity Program & Metrics
+# 1.1. Program & Metrics
 
 ## Content
-* [1.1.1 Scope & Business context](#111-scope--business-context)
+* [1.1.1. Scope & Business context](#111-scope--business-context)
 * [1.1.2. Cybersecurity Objectives & Gap assessment](#112-cybersecurity-objectives--gap-assessment) 
 * [1.1.3. Roadmap: Insourcing & Outsourcing](#113-cybersecurity-roadmap-insourcing--outsourcing)
-* [1.1.4. Dashboard: Risk & ROI metrics](#114-cybersecurity-dashboard-risk--roi-metrics)
+* [1.1.4. Dashboard: Risk & ROSI metrics](#114-cybersecurity-dashboard-risk--rosi-metrics)
 
 ## 1.1.1. Scope & business context 
 
@@ -25,8 +25,9 @@
 ## 1.1.2. Cybersecurity Objectives & Gap assessment 
 
 **Objectives:**
-* Depending on your business context and goals, you should formally define the cybersecurity objectives.
-* Identify the gaps for each objective, and assess the associated risk. 
+* Define the cybersecurity objectives, based on your business context and goals.
+* Identify the current gap for each objective. 
+* Evaluate the risk associated with each gap [[1](#1-nistir-8286)].
 
 **Rational**: This work package defines the actual challenge/problem that needs to be addressed by the CISO. 
 
@@ -36,26 +37,27 @@
 * Break down the cybersecurity objectives into a set of projects.
 * For each projects, define the required resources (budget & staff) and the success criteria.
 * For each projects, identify the skills and estimated effort needed.
-* Check if your existing staff has the skills and capacity to support the project execution and operation. 
-* Identify the missing skills and decide:
-  * For skills needed temporarly or occasionally -> Outsource
-  * For skills needed permanently: Train existing staff or start a hiring process.
+* Check if your existing staff has the skills, motivation and capacity to support the project execution and operation. 
+* Evaluate the pros and cons of insourcing and outsourcing the projects [[2](#2-techtarget)].
 
 **Rational**: Align the expectation between the CISO and senior management. 
 
-**Hint/Caveat**: When hiring a cybersecurity professional, you can use the [[1](#1-ecsf-enisa),[2](#2-ecsf-sans)] to create the job description.
+**Hint/Caveat**: When hiring a cybersecurity professional, you can use the [[3](#3-ecsf-enisa),[4](#4-ecsf-sans)] to create the job description.
 
-## 1.1.4. Cybersecurity Dashboard: Risk & ROI metrics  
+## 1.1.4. Cybersecurity Dashboard: Risk & ROSI metrics  
 
 **Objectives:**
-* Review the risks identified in [1.1.2](#111-Scope--Business-context) regurarly and identify potential emerging risks.
-* Measure the progress on ongoing projects and the budget spent, and calculate the ROI.
+* Review the risks identified in [1.1.2](#112-cybersecurity-objectives--gap-assessment) regurarly and identify potential emerging risks.
+* Measure the progress on ongoing projects and the budget spent, and calculate the ROSI.
 * If needed: Adjust the cybersecurity objectives
 
 **Rational**: Gain the trust of senior management by providing continous feedback and actionable recomendations.
 
-**Caveat**: Measuring the ROI on cybersecurity projects is very challenging. Do not confuse the risk of an incident with the actual occurence of an incident.
+**Caveat**: Measuring the ROSI on cybersecurity projects is very challenging, and depends on a number of estomations and approxiamtions [[5](#5-rosi-enisa)].
 
 ## References
-#### 1. [ECSF ENISA](https://www.enisa.europa.eu/topics/education/european-cybersecurity-skills-framework)
-#### 2. [ECSF SANS](https://www.sans.org/ecsf-framework/)
+#### 1. [NIST.IR 8286](https://doi.org/10.6028/NIST.IR.8286)
+#### 2. [TechTarget](https://www.techtarget.com/searchsecurity/tip/15-benefits-of-outsourcing-your-cybersecurity-operations)
+#### 3. [ECSF ENISA](https://www.enisa.europa.eu/topics/education/european-cybersecurity-skills-framework)
+#### 4. [ECSF SANS](https://www.sans.org/ecsf-framework/)
+#### 5. [ROSI ENISA](https://www.enisa.europa.eu/publications/introduction-to-return-on-security-investment)
