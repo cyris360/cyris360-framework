@@ -1,16 +1,13 @@
 There are two distincts domains where the concept of secure architecture applies: Secure infrastructure and Secure product. 
 Depending on the target organization and the type of products delivered, these domains might partially overlap.
 
-## Infrastructure security
+## Corporate security
 Regardless of whether your infrastrcture is hosted on the cloud or on premises, there are some generic security considerations. When your infrastrure is hosted on the cloud, the shared responsability model specifies the scope of each party. 
 The following activities are part of secure architecture: 
 * Network Security
+* Data Protection
 * Identity and Access Management (for employees)
 * Secret Management
-* Data Protection
-* Vulnerabilty Management
-* Patch Management 
-* Logging & Monitoring
 * Cloud Security Posture Management
 
 ## Product security
