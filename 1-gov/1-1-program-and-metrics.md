@@ -27,7 +27,7 @@
 **Objectives:**
 * Define the cybersecurity objectives, based on your business context and goals.
 * Identify the current gap for each objective. 
-* Evaluate the risk associated with each gap [[1](#1-nistir-8286)].
+* Evaluate the risk associated with each gap [[1](#1-nistir-8286),[2](#2-eu-rmf-enisa)].
 
 **Rational**: This work package defines the actual challenge/problem that needs to be addressed by the CISO. 
 
@@ -38,11 +38,11 @@
 * For each projects, define the required resources (budget & staff) and the success criteria.
 * For each projects, identify the skills and estimated effort needed.
 * Check if your existing staff has the skills, motivation and capacity to support the project execution and operation. 
-* Evaluate the pros and cons of insourcing and outsourcing the projects [[2](#2-techtarget)].
+* Evaluate the pros and cons of insourcing and outsourcing the projects [[3](#3-techtarget)].
 
 **Rational**: Align the expectation between the CISO and senior management. 
 
-**Hint/Caveat**: When hiring a cybersecurity professional, you can use the [[3](#3-ecsf-enisa),[4](#4-ecsf-sans)] to create the job description.
+**Hint/Caveat**: When hiring a cybersecurity professional, you can use the [[4](#4-ecsf-enisa),[5](#5-ecsf-sans)] to create the job description.
 
 ## 1.1.4. Cybersecurity Dashboard: Risk & ROSI metrics  
 
@@ -53,11 +53,12 @@
 
 **Rational**: Gain the trust of senior management by providing continous feedback and actionable recomendations.
 
-**Caveat**: Measuring the ROSI on cybersecurity projects is very challenging, and depends on a number of estomations and approxiamtions [[5](#5-rosi-enisa)].
+**Caveat**: Measuring the ROSI on cybersecurity projects is very challenging, and depends on a number of estomations and approxiamtions [[6](#6-rosi-enisa)].
 
 ## References
 #### 1. [NIST.IR 8286](https://doi.org/10.6028/NIST.IR.8286)
-#### 2. [TechTarget](https://www.techtarget.com/searchsecurity/tip/15-benefits-of-outsourcing-your-cybersecurity-operations)
-#### 3. [ECSF ENISA](https://www.enisa.europa.eu/topics/education/european-cybersecurity-skills-framework)
-#### 4. [ECSF SANS](https://www.sans.org/ecsf-framework/)
-#### 5. [ROSI ENISA](https://www.enisa.europa.eu/publications/introduction-to-return-on-security-investment)
+#### 2. [EU RMF ENISA](https://www.enisa.europa.eu/publications/interoperable-eu-risk-management-framework)
+#### 3. [TechTarget](https://www.techtarget.com/searchsecurity/tip/15-benefits-of-outsourcing-your-cybersecurity-operations)
+#### 4. [ECSF ENISA](https://www.enisa.europa.eu/topics/education/european-cybersecurity-skills-framework)
+#### 5. [ECSF SANS](https://www.sans.org/ecsf-framework/)
+#### 6. [ROSI ENISA](https://www.enisa.europa.eu/publications/introduction-to-return-on-security-investment)
