@@ -12,13 +12,15 @@ This can be done in three simple & cohesive steps:
 #### [1.2 Policy & Compliance](/1-gov/1-2-policy-and-compliance.md)
 #### [1.3 Training & Awareness](/1-gov/1-3-training-and-awareness.md)
   
-### [2. Cybersecurity Architecture](/2-arch/README.md)
-#### [2.1 Infrastructure Security](/2-arch/2-1-infrastructure-security)
-#### [2.2 Product Security](/2-arch/2-2-product-security.md)
+### [2. Cybersecurity Implementation](/2-imp/README.md)
+#### [2.1 Corporate Security](/2-imp/2-1-corporate-security)
+#### [2.2 Product Security](/2-imp/2-2-product-security.md)
 
 ### [3. Cybersecurity Operations](/3-ops/README.md)
-#### [3.1 Incident Management](/3-ops/3-1-incident-management.md)
-#### [3.2 Recurrent Activities]()
+#### [3.1 Vulnerability Management](/3-ops/3-1-vulnerability-management.md)
+#### [3.2 Configuration Management](/3-ops/3-2-configuration-management.md)
+#### [3.3 Incident Management](/3-ops/3-3-incident-management.md)
+
 
 ### Contributing 
 Want to contribute to CYRIS360 Framework ? That's great! 
