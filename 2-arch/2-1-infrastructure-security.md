@@ -1,4 +1,0 @@
-# Infrastructure Security
-
-## Content
-TBD
