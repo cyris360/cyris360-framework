@@ -13,7 +13,7 @@ This can be done in three simple & cohesive steps:
 #### [1.3 Training & Awareness](/1-gov/1-3-training-and-awareness.md)
   
 ### [2. Cybersecurity Implementation](/2-imp/README.md)
-#### [2.1 Corporate Security](/2-imp/2-1-corporate-security)
+#### [2.1 Corporate Security](/2-imp/2-1-corporate-security.md)
 #### [2.2 Product Security](/2-imp/2-2-product-security.md)
 
 ### [3. Cybersecurity Operations](/3-ops/README.md)
