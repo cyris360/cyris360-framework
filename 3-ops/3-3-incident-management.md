@@ -3,8 +3,5 @@
 ## Content 
 
 * Logging & Monitoring
-* Detect, triage and review of security events
-* Forensics: Identifying the root cause
-* Disaster Recovery
+* Security event detection & response
 * Post mortem & lesson learned
-
