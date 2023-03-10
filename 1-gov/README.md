@@ -24,9 +24,7 @@
 
 ## [1.3 Training & Awareness](1-3-training-and-awareness.md)
 
-* Security Awarenss & Discipline
-  * Security policies
-  * Social engineering 
-  * Advanced Persistent Threats (APTs)
-* Incident/Event simulation & gamification
-* Role-based training
+* 1.3.1 Basic security training
+* 1.3.2 Gamified security training
+* 1.3.3 Role-based training
+
