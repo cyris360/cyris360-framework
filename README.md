@@ -4,16 +4,16 @@ Setting up and operating a successful cybersecurity program can be overwhelming,
 
 The CRF include 8 loosly coupled work packages, grouped in 3 layers :
 
-### [1. Cybersecurity Governance](/1-gov/README.md)
+### [1. Cyber Risk Governance](/1-gov/README.md)
 #### [1.1 Program & Metrics](/1-gov/1-1-program-and-metrics.md)
 #### [1.2 Policy & Compliance](/1-gov/1-2-policy-and-compliance.md)
 #### [1.3 Training & Awareness](/1-gov/1-3-training-and-awareness.md)
   
-### [2. Cybersecurity Implementation](/2-imp/README.md)
+### [2. Cyber Risk Implementation](/2-imp/README.md)
 #### [2.1 Corporate Security](/2-imp/2-1-corporate-security.md)
 #### [2.2 Product Security](/2-imp/2-2-product-security.md)
 
-### [3. Cybersecurity Operations](/3-ops/README.md)
+### [3. Cyber Risk Operations](/3-ops/README.md)
 #### [3.1 Offensive Security](/3-ops/3-1-offensive-security.md)
 #### [3.2 Vulnerability Management](/3-ops/3-2-vulnerability-management.md)
 #### [3.3 Incident Management](/3-ops/3-3-incident-management.md)
