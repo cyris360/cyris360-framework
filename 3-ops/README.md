@@ -1,4 +1,4 @@
-# Cyber Risk Operation
+# 3. Cyber Risk Operation
 
 This step include all operational security activities. Offsensive security (often called "Red Team") include all security testing activities. The Vulnerability management is a continuous activity where potential vulnerabilities from different tools are centralized and triaged, followed by a appropriate response using risk-based approach. Incident management correspond to the formal process during incident, including detection and response, as well as identifying the relevant improvement to increase the overall resiliency.
 
