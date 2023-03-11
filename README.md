@@ -1,6 +1,6 @@
-# CYRIS360 Cybersecurity Risk Framework (CRF)
+# CYRIS360 Cyber Risk Framework (CRF)
 
-Setting up and operating a successful cybersecurity program can be overwhelming, particularly for small and medium businesses. That is why [CYRIS360](https://cyris360.com) has created the Cybersecurity Risk Framework (CRF), as a modular set of work packages that can customized and tailored to your own organization . 
+Setting up and operating a successful cybersecurity program can be overwhelming, particularly for small and medium businesses. That is why [CYRIS360](https://cyris360.com) has created the Cyber Risk Framework (CRF), as a modular set of work packages that can customized and tailored to your own organization . 
 
 The CRF include 8 loosly coupled work packages, grouped in 3 layers :
 
