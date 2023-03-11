@@ -1,6 +1,6 @@
 # 1. Cyber Risk Governance
 
-## [1.1. Cybersecurity Program & Metrics](1-1-program-and-metrics.md)
+## [1.1. Program & Metrics](1-1-program-and-metrics.md)
 
 * 1.1.1. Scope & Business context 
 * 1.1.2. Cybersecurity objectives & Gap assessment 
