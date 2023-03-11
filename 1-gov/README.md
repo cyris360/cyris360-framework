@@ -1,4 +1,4 @@
-# 1. Cybersecurity Governance
+# 1. Cyber Risk Governance
 
 ## [1.1. Cybersecurity Program & Metrics](1-1-program-and-metrics.md)
 
