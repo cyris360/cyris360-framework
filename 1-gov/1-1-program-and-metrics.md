@@ -25,7 +25,7 @@
 ## 1.1.2. Objectives & Gap assessment 
 
 **Objectives:**
-* Define the cyber risk objectives, based on your business context and goals. These risks might be related to security, privacy, safety, and compliance.
+* Define the cyber risk gaps and associated objectives, based on your business context and goals. These risk gaps might be related to security, privacy, safety, and compliance.
 * Identify the current gap for each objective. 
 * Evaluate the risk associated with each gap [[1](#1-nistir-8286),[2](#2-eu-rmf-enisa)].
 
@@ -37,12 +37,12 @@
 * Break down the objectives into a set of projects.
 * For each projects, define the required resources (budget & staff) and the success criteria.
 * For each projects, identify the skills and estimated effort needed.
-* Check if your existing staff has the skills, motivation and capacity to support the project execution and operation. 
-* Evaluate the pros and cons of insourcing and outsourcing the projects [[3](#3-techtarget)].
+* Check if your existing staff has the skills, motivation and capacity to support the project execution and operation. You can expand the capacity of security team by leveraging the concept of security champions [[3](#3-scsg),[4](#4-owasp-scg)].
+* Evaluate the pros and cons of insourcing and outsourcing the projects [[5](#5-techtarget)].
 
 **Rational**: Align the expectation between the CISO and senior management. 
 
-**Hint/Caveat**: When hiring a cybersecurity professional, you can use the [[4](#4-ecsf-enisa),[5](#5-ecsf-sans)] to create the job description.
+**Hint/Caveat**: When hiring a cybersecurity professional, you can use the [[6](#6-ecsf-enisa),[7](#7-ecsf-sans)] to create the job description.
 
 ## 1.1.4. Dashboard: Risk & ROSI metrics  
 
@@ -53,12 +53,14 @@
 
 **Rational**: Gain the trust of senior management by providing continous feedback and actionable recomendations.
 
-**Caveat**: Measuring the ROSI on cybersecurity projects is very challenging, and depends on a number of estomations and approxiamtions [[6](#6-rosi-enisa)].
+**Caveat**: Measuring the ROSI on cybersecurity projects is very challenging, and depends on a number of estomations and approxiamtions [[8](#8-rosi-enisa)].
 
 ## References
 #### 1. [NIST.IR 8286](https://doi.org/10.6028/NIST.IR.8286)
 #### 2. [EU RMF ENISA](https://www.enisa.europa.eu/publications/interoperable-eu-risk-management-framework)
-#### 3. [TechTarget](https://www.techtarget.com/searchsecurity/tip/15-benefits-of-outsourcing-your-cybersecurity-operations)
-#### 4. [ECSF ENISA](https://www.enisa.europa.eu/topics/education/european-cybersecurity-skills-framework)
-#### 5. [ECSF SANS](https://www.sans.org/ecsf-framework/)
-#### 6. [ROSI ENISA](https://www.enisa.europa.eu/publications/introduction-to-return-on-security-investment)
+#### 3. [SCSG](https://securitychampionsuccessguide.org/)
+#### 4. [OWASP SCG](https://owasp.org/www-project-security-champions-guidebook/)
+#### 5. [TechTarget](https://www.techtarget.com/searchsecurity/tip/15-benefits-of-outsourcing-your-cybersecurity-operations)
+#### 6. [ECSF ENISA](https://www.enisa.europa.eu/topics/education/european-cybersecurity-skills-framework)
+#### 7. [ECSF SANS](https://www.sans.org/ecsf-framework/)
+#### 8. [ROSI ENISA](https://www.enisa.europa.eu/publications/introduction-to-return-on-security-investment)
