@@ -19,3 +19,9 @@ This type of training is relevant for employee who are involved in building and 
 * Cloud Infrastructure Security (Service provider specific)
 * Secure Software Development Lifecycle
 * Technologie specific (Mobile/Web App)
+
+For more details about specialized and role-based security training topics, please check the following resources [[1](#1-sans-cssr),[2](#2-paul-jerimy-scr)]
+
+## References
+#### 1. [SANS CSSR](https://www.sans.org/cyber-security-skills-roadmap)
+#### 2. [Paul Jerimy SCR](https://pauljerimy.com/security-certification-roadmap/)
