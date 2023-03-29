@@ -8,7 +8,7 @@ This step include all operational security activities. Offsensive security (ofte
 * 3.1.2 Responsible Disclosure Program
 * 3.1.3 Chaos Engineering & Disaster Recovery 
 
-## [3.1 Vulnerability Management](3-2-vulnerability-management.md)
+## [3.2 Vulnerability Management](3-2-vulnerability-management.md)
 
 * 3.2.1 Asset & Attack Surface Management
 * 3.2.2 Configuration & Patch Management
