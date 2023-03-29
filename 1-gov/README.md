@@ -9,7 +9,7 @@
 
 ## [1.2 Policy & Compliance](1-2-policy-and-compliance.md)
 
-* 1.2.1. Information security policy
+* 1.2.1. Information security policies
 * 1.2.2. Information security controls
 
 ## [1.3 Training & Awareness](1-3-training-and-awareness.md)
