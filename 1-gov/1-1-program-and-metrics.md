@@ -3,8 +3,8 @@
 ## Content
 * [1.1.1. Scope & Business context](#111-scope--business-context)
 * [1.1.2. Objectives & Gap assessment](#112-objectives--gap-assessment) 
-* [1.1.3. Roadmap: Insourcing & Outsourcing](#113-roadmap-insourcing--outsourcing)
-* [1.1.4. Dashboard: Risk & ROSI metrics](#114-dashboard-risk--rosi-metrics)
+* [1.1.3. Roadmap & Sourcing](#113-roadmap--sourcing)
+* [1.1.4. Dashboard & Management review](#114-dashboard--management-review)
 
 ## 1.1.1. Scope & Business context 
 
