@@ -6,7 +6,7 @@
 * [1.1.3. Roadmap: Insourcing & Outsourcing](#113-roadmap-insourcing--outsourcing)
 * [1.1.4. Dashboard: Risk & ROSI metrics](#114-dashboard-risk--rosi-metrics)
 
-## 1.1.1. Scope & business context 
+## 1.1.1. Scope & Business context 
 
 **Objectives:**
 * Identify all assets and associated type (Physical, Data, Intellectual property, etc.) and properties (CIA Rating, Estimated Value) 
@@ -25,13 +25,18 @@
 ## 1.1.2. Objectives & Gap assessment 
 
 **Objectives:**
-* Define the cyber risk gaps and associated objectives, based on your business context and goals. These risk gaps might be related to security, privacy, safety, and compliance.
-* Identify the current gap for each objective. 
-* Evaluate the risk associated with each gap [[1](#1-nistir-8286),[2](#2-eu-rmf-enisa)].
+* Define the cyber risk objectives, based on your business context and strategy. These objectives might be related to security, privacy, safety, and compliance. For reference, here is a list of regulations that you need to consider depending on the operating region and industry sector:
+  * EU Network and Information Security (NIS2)
+  * US Federal Information Security Management Act (FISMA)
+  * Financial Services (PCI DSS, PSD2)
+  * Healthcare (NEN 7510, HIPAA, HITRUST CSF)
+  * Automotive (UN ECE R155 & R156)
+  * Privacy (GDPR-EU, CCPA-California, APA-Australia, APPI-Japan, PDPA-Singapore)
+* Identify the current gap for each objective, and evaluate the risk associated with each gap [[1](#1-nistir-8286),[2](#2-eu-rmf-enisa)].
 
-**Rational**: This work package defines the actual challenge/problem that needs to be addressed by the CISO. 
+**Rational**: This work package defines the actual challenge/problem that needs to be addressed. 
 
-## 1.1.3. Roadmap: Insourcing & Outsourcing 
+## 1.1.3. Roadmap & Sourcing 
 
 **Objectives:**
 * Break down the objectives into a set of projects.
@@ -42,14 +47,14 @@
 
 **Rational**: Align the expectation between the CISO and senior management. 
 
-**Hint/Caveat**: When hiring a cybersecurity professional, you can use the [[6](#6-ecsf-enisa),[7](#7-ecsf-sans)] to create the job description.
+**Hint/Caveat**: When hiring a cybersecurity professional, you can use the [[6](#6-ecsf-enisa),[7](#7-ecsf-sans)] to define the role.
 
-## 1.1.4. Dashboard: Risk & ROSI metrics  
+## 1.1.4. Dashboard & Management review 
 
 **Objectives:**
-* Review the risks identified in [1.1.2](#112-cybersecurity-objectives--gap-assessment) regurarly and identify potential emerging risks.
-* Measure the progress on ongoing projects and the budget spent, and calculate the ROSI.
-* If needed: Adjust the objectives
+* Review the risks identified in [1.1.2](#112-objectives--gap-assessment) periodically and identify potential emerging risks.
+* Monitor the progress on ongoing projects and the budget spent, and estimate the ROSI.
+* Report to senior management: Discuss risk exposure & consider adjusting the risk apetite and/or the objectives.
 
 **Rational**: Gain the trust of senior management by providing continous feedback and actionable recomendations.
 
