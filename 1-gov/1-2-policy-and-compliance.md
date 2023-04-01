@@ -6,14 +6,16 @@
 
 ## 1.2.1 Information Security Policies
 * Align the cyber risks with the business objectives to ensure compliance by default.
-* Create a governance structure with a set of policies and associated processes, procedures and guidelines.
-
-**Example of information security related regulations**:
-*  EU Network and Information Security (NIS2)
-*  US Federal Information Security Management Act (FISMA) 
-*  Financial Services (PCI DSS, PSD2)
-*  Healthcare (NEN 7510, HIPAA, HITRUST CSF)
-*  Automotive (UN ECE R155 & R156)
+* Create a governance structure with a set of policies and standards. This includes:
+  * Global information security policy: General rules about management commitments.
+  * System enegineering policy: Rules around configuration and change management.
+  * Software lifecycle policy: Rules related to the build pipeline.
+  * Cryptography & access control policy: Rules to enforce the principle of least privilege and separation of duty.
+* Create a set of processes, procedures and guidelines. This include:
+  * Business continuity plan.
+  * Incident response and disaster recovery process.
+  * Change management process.
+  * Onboarding and Offboarding employees.
 
 
 ## 1.2.2 Information Security Controls
