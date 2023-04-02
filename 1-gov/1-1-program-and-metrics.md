@@ -53,12 +53,12 @@
 
 **Objectives:**
 * Review the risks identified in [1.1.2](#112-objectives--gap-assessment) periodically and identify potential emerging risks.
-* Monitor the progress on ongoing projects and the budget spent, and estimate the ROSI.
+* Monitor the progress on ongoing projects and the budget spent, and estimate the Return on Security Investment (RoSI).
 * Report to senior management: Discuss risk exposure & consider adjusting the risk apetite and/or the objectives.
 
 **Rational**: Gain the trust of senior management by providing continous feedback and actionable recomendations.
 
-**Caveat**: Measuring the ROSI on cybersecurity projects is very challenging, and depends on a number of estomations and approxiamtions [[8](#8-rosi-enisa)].
+**Caveat**: Measuring the RoSI on cybersecurity projects is very challenging, and depends on a number of estimations and approxiamtions [[8](#8-rosi-enisa)].
 
 ## References
 #### 1. [NIST.IR 8286](https://doi.org/10.6028/NIST.IR.8286)
