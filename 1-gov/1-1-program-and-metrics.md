@@ -12,7 +12,13 @@
 * Identify all assets and associated type (Physical, Data, Intellectual property, etc.) and properties (CIA Rating, Estimated Value) 
 * Identify all physical & logical interfaces that are exposed to potential threat actors.
 * Identify all suppliers & services providers and associated risks based on their respective impact on the continuity of your business. 
-* Identify applicable regulation depending on region & industry. 
+* Identify applicable regulation depending on region & industry. For reference, here is a list of regulations that you need to consider depending on the operating region and industry sector:
+  * EU Network and Information Security (NIS2)
+  * US Federal Information Security Management Act (FISMA)
+  * Financial Services (PCI DSS, PSD2)
+  * Healthcare (NEN 7510, HIPAA, HITRUST CSF)
+  * Automotive (UN ECE R155 & R156)
+  * Privacy (GDPR-EU, CCPA-California, APA-Australia, APPI-Japan, PDPA-Singapore)
 * Locate each category of assets, interface, and regulation in the known-unknown matrix. 
 * Set up the appropriate process to reduce the unknown unknowns.
 
@@ -25,13 +31,7 @@
 ## 1.1.2. Objectives & Gap assessment 
 
 **Objectives:**
-* Define the cyber risk objectives, based on your business context and strategy. These objectives might be related to security, privacy, safety, and compliance. For reference, here is a list of regulations that you need to consider depending on the operating region and industry sector:
-  * EU Network and Information Security (NIS2)
-  * US Federal Information Security Management Act (FISMA)
-  * Financial Services (PCI DSS, PSD2)
-  * Healthcare (NEN 7510, HIPAA, HITRUST CSF)
-  * Automotive (UN ECE R155 & R156)
-  * Privacy (GDPR-EU, CCPA-California, APA-Australia, APPI-Japan, PDPA-Singapore)
+* Define the cyber risk objectives, based on your business context and strategy. These objectives might be related to security, privacy, safety, and compliance. 
 * Identify the current gap for each objective, and evaluate the risk associated with each gap [[1](#1-nistir-8286),[2](#2-eu-rmf-enisa)].
 
 **Rational**: This work package defines the actual challenge/problem that needs to be addressed. 
