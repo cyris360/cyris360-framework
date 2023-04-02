@@ -16,8 +16,8 @@
 For more details about security testing methodolgies, refer to [[1](#1-ptes),[2](#2-what-is-pentest)].
 
 ### 3.1.2 Responsible Disclosure Program
-* Define a responsible disclosure policy. This should include a dedicated contact for reporting security vulnerabilities.
-* Create and host security.txt file according to RFC9116 [[3](#3-securitytxt)].
+* Define a responsible disclosure policy [[3](#3-rd-policy)]. This should include a dedicated contact for reporting security vulnerabilities.
+* Create and host security.txt file according to RFC9116 [[4](#4-securitytxt)].
 * You can leverage third party provider to help with triage of security report, you can also offer bounties to attract skilled testers.
 
 ### 3.1.3 Security Chaos Engineering
@@ -27,4 +27,5 @@ TBD
 ## References
 #### 1. [PTES](http://www.pentest-standard.org/index.php/PTES_Technical_Guidelines)
 #### 2. [What is pentest](https://www.synopsys.com/glossary/what-is-penetration-testing.html)
-#### 3. [Security.txt](https://securitytxt.org)
+#### 3. [RD Policy](https://responsibledisclosure.nl/en/)
+#### 4. [Security.txt](https://securitytxt.org)
