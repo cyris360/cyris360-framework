@@ -55,9 +55,8 @@
 **Objectives**:
 * Define a formal release process with a checklist of relevant preconditions prior to promoting the application to public use.
 * Sign the deliverable code using the organization's cryptographic key and make sure it is verified before processing any senstive data.
+* Ensure secure operation of customer identity and access management (CIAM) [[7](#7-ciam)]
 * Set up the approporiate security logging and monitoring. 
-
-**Hint/Caveat**: If your business operate in B2B2C, you might consider pushing part of the liabilty to the intermidiate business. 
 
 ## Reference
 #### 1. [OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/)
@@ -66,3 +65,4 @@
 #### 4. [AWS WAT Security](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar)
 #### 5. [Microsoft WAF Security](https://learn.microsoft.com/en-us/azure/architecture/framework/security/)
 #### 6. [Google CAF Security](https://cloud.google.com/architecture/framework/security)
+#### 7. [CIAM](https://www.cyberark.com/what-is/ciam/)
