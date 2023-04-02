@@ -2,10 +2,11 @@
 
 ## [1.1. Program & Metrics](1-1-program-and-metrics.md)
 
-* 1.1.1. Scope & Business context 
+* 1.1.1. Scope & Business context
 * 1.1.2. Objectives & Gap assessment 
-* 1.1.3. Roadmap: Insourcing & Outsourcing 
-* 1.1.4. Dashboard: Risk & ROI metrics
+* 1.1.3. Roadmap & Sourcing
+* 1.1.4. Dashboard & Management review
+
 
 ## [1.2 Policy & Compliance](1-2-policy-and-compliance.md)
 
