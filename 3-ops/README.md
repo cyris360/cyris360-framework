@@ -19,5 +19,5 @@ This step include all operational security activities. Offsensive security (ofte
 
 * 3.3.1 Preparation, Detection & Analysis
 * 3.3.2 Containment, Eradication & Recovery
-* 3.3.3 Post mortem & lesson learned
+* 3.3.3 Post-incident activity
 
