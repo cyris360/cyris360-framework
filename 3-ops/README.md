@@ -5,7 +5,7 @@ This step include all operational security activities. Offsensive security (ofte
 ## [3.1 Offensive Security](3-1-offensive-security.md)
 
 * 3.1.1 Infrastructure & Application Testing
-* 3.1.2 Responsible Disclosure Program
+* 3.1.2 Responsible Disclosure & Bug Bounty Programs
 * 3.1.3 Security Chaos Engineering 
 
 ## [3.2 Vulnerability Management](3-2-vulnerability-management.md)
