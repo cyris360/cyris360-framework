@@ -13,7 +13,7 @@
 * Identify the skills required for for the target system. The skills needed to perform testing on web or mobile application usually differ from skills needed to test a corporate network. 
 * Run time boxed tests: given enough time, almost any system can be broken. In order to make test results comparable (to some extent), it is important to agree upfront on the test duration.
 
-For more details about security testing methodolgies, refer to [[1](#1-ptes),[2](#2-what-is-pentest)[3](#3-pt-mm)].
+For more details about security testing methodolgies, refer to [[1](#1-ptes),[2](#2-what-is-pentest),[3](#3-pt-mm)].
 
 ### 3.1.2 Responsible Disclosure Program
 * Define a responsible disclosure policy [[4](#4-rd-policy)]. This should include a dedicated contact for reporting security vulnerabilities.
