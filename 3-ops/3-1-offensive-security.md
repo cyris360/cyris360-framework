@@ -2,7 +2,7 @@
 
 ### Content
 * [3.1.1 Infrastructure & Application Testing](#311-infrastructure--application-testing)
-* [3.1.2 Responsible Disclosure Program](#312-responsible-disclosure-program)
+* [3.1.2 Responsible Disclosure & Bug Bounty Programs](#312-responsible-disclosure--bug-bounty-programs)
 * [3.1.3 Security Chaos Engineering](#313-security-chaos-engineering)
 
 ### 3.1.1 Infrastructure & Application Testing
@@ -15,10 +15,10 @@
 
 For more details about security testing methodolgies, refer to [[1](#1-ptes),[2](#2-what-is-pentest),[3](#3-pt-mm)].
 
-### 3.1.2 Responsible Disclosure Program
+### 3.1.2 Responsible Disclosure & Bug Bounty Programs
 * Define a responsible disclosure policy [[4](#4-rd-policy)]. This should include a dedicated contact for reporting security vulnerabilities.
 * Create and host security.txt file according to RFC9116 [[5](#5-securitytxt)].
-* You can leverage third party provider to help with triage of security report, you can also offer bounties to attract skilled testers.
+* You can leverage a third party provider to help with triage of security report, you can also offer bounties [[7](#7-obb)] to attract skilled testers.
 
 ### 3.1.3 Security Chaos Engineering
 * See security related item in the following repo [[6](#6-gh-ace)].
@@ -31,3 +31,4 @@ For more details about security testing methodolgies, refer to [[1](#1-ptes),[2]
 #### 4. [RD Policy](https://responsibledisclosure.nl/en/)
 #### 5. [Security.txt](https://securitytxt.org)
 #### 6. [GH ACE](https://github.com/dastergon/awesome-chaos-engineering)
+#### 7. [OBB](https://www.openbugbounty.org/)
