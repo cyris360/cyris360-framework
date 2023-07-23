@@ -2,7 +2,7 @@
 
 This guide is dedicated to target organizations who are interested in managing cyber risks efficiently. The use of CRF framework is highly customizable, and can be implemented in an incremental way. you can If you need to demonstrate to relevant stakeholders that your organization manage cyber risks in a consistent manner, there will be additional steps to do so via external (independant) party. 
 
- ## Process
+## Process
 
 1. Scope and Context
 2. Gap and risk assessment
@@ -28,12 +28,24 @@ Risks from former assessments, or assessment of similar organizations may be use
 
 ### 3. Management review and Action plan
 
-TBD
+After gathering all relevant data about potential risks and gaps, these need to be formally reported to senior management (or management board). This is when the CISO can make a difference and real impact on the risk posture. The risks shall be associated with a brief description of recommended actions and an estimation of the associated costs. The senior management do not need to hear technical and operational details. However, they need to be able to approve an action plan that can be adjusted further if needed. 
+
+**Hint:** You might find the following webcast helpful: [How to Present Cyber Security Risk to Senior Leadership | SANS Webcast](https://youtu.be/_uCmvfOhR_E) 
 
 ### 4. Execution and Continual Reporting 
 
 TBD
 
-### 5. Retro and Improvements
+### 5. Retrospective and Improvements
 
 TBD
+
+## Q&A
+The following section include questions and answers related to Cyris360 Risk Framework (CRF) and cyber domain in general. 
+
+1. How is the CRF related to other frameworks and standards such as NIST CSF and ISO 27001 ?
+The CRF can be used to help you identify and choose the right solution(s) to manage the cyber risks. This may be one or a combination of multiple standards depending on your context. 
+2. What are the prerequisites to start using CRF for my organization ?
+The CRF is designed such that the barrier to entry is virtally non-existant. You can use it nearly for any type of organisation regardless of its industry sector, geographic location, or size. Please mind that the use of CRF is at your own risk. See [LICENSE](https://github.com/cyris360/cyris360-framework/blob/main/LICENSE) for more details.
+3. What are the costs associated with the use of CRF ?
+None! CRF is a community driven solution initated by Cyris360 BV to help organizations learn from each other, and improve the common knowledge around the cyber risks. Of course you still need to invest time when adopting CRF (or a custom version of it), and when you do, we encourage you to give back to the community. See details in [contributing](https://github.com/cyris360/cyris360-framework/blob/main/README.md#contributing) section. 
