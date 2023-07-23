@@ -18,11 +18,8 @@ The CRF include 8 loosly coupled work packages, grouped in 3 layers :
 #### [3.2 Vulnerability Management](/3-ops/3-2-vulnerability-management.md)
 #### [3.3 Incident Management](/3-ops/3-3-incident-management.md)
 
-### Support Us
-You can show your support by:
-* Starring this repo.
-* Use and share with your network.
-
+### Getting Started
+You can check the guide in [Getting Started](getting-started.md). This include a step-by-step guide instruction, as well as answers to frequently asked questions. If you have any question or comments, you can submit it in the [Discussion](https://github.com/cyris360/cyris360-framework/discussions) section.
 
 ### Contributing 
 Want to contribute to CYRIS360 Framework ? That's great! 
@@ -35,6 +32,11 @@ Please make sure you file an [issue](https://github.com/cyris360/cyris360-framew
 * If your contribution include a link to an external resource, please explain your relation with the referred domain owner. 
 * Promoting free or paid tools or services is not appreciated. 
 * Please make sure your read and comply with the [code of conduct](CODE_OF_CONDUCT.md).
+
+### Support Us
+You can show your support by:
+* Starring this repo.
+* Use and share with your network.
 
 ### License 
 See [License](LICENSE) file.
