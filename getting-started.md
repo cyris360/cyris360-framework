@@ -26,7 +26,7 @@ After gathering all relevant data about potential risks and gaps, these need to 
 
 The action plan should be planned in a timely manner for a specific period of time. Success criteria shall be defined, and - if appliable - relevant KPI milestone projections shaould be mentionned in the action plan. It is also important to illustrate the Return on Investment (ROI) for a reasonble range of budget. This will make it easy for senior managment to adjust the budget if needed, depending on their risk apetite.
 
-**Hint:** You might find the following webcast helpful: [How to Present Cyber Security Risk to Senior Leadership | SANS Webcast](https://youtu.be/_uCmvfOhR_E) 
+**Hint:** You might find the following webcast helpful: [How to Present Cyber Security Risk to Senior Leadership](https://youtu.be/_uCmvfOhR_E) 
 
 ### 1.4. Execution and Continual Reporting 
 
