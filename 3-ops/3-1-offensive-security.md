@@ -13,23 +13,13 @@
 * Identify the skills required for for the target system. The skills needed to perform testing on web or mobile application usually differ from skills needed to test a corporate network. 
 * Run time boxed tests: given enough time, almost any system can be broken. In order to make test results comparable (to some extent), it is important to agree upfront on the test duration.
 
-For more details about security testing methodolgies, refer to [[1](#1-ptes),[2](#2-what-is-pentest),[3](#3-pt-mm)].
+For more details about security testing methodolgies, refer to [[1](../references/#31-ptes),[2](../references/#32-what-is-pentest),[3](../references/#33-pt-mm)].
 
 ### 3.1.2 Responsible Disclosure & Bug Bounty Programs
-* Define a responsible disclosure policy [[4](#4-rd-policy)]. This should include a dedicated contact for reporting security vulnerabilities.
-* Create and host security.txt file according to RFC9116 [[5](#5-securitytxt)].
-* You can leverage a third party provider to help with triage of security report, you can also offer bounties [[6](#6-obb)] to attract skilled testers.
+* Define a responsible disclosure policy [[4](../references/#34-rd-policy)]. This should include a dedicated contact for reporting security vulnerabilities.
+* Create and host security.txt file according to RFC9116 [[5](../references/#35-securitytxt)].
+* You can leverage a third party provider to help with triage of security report, you can also offer bounties [[6](../references/#36-obb)] to attract skilled testers.
 
 ### 3.1.3 Security Chaos Engineering
-* See security related item in the following repo [[7](#7-gh-ace)].
-
-
-## References
-#### 1. [PTES](http://www.pentest-standard.org/index.php/PTES_Technical_Guidelines)
-#### 2. [What is pentest](https://www.synopsys.com/glossary/what-is-penetration-testing.html)
-#### 3. [PT MM](https://github.com/5bhuv4n35h/pentestmindmap)
-#### 4. [RD Policy](https://responsibledisclosure.nl/en)
-#### 5. [Security.txt](https://securitytxt.org)
-#### 6. [OBB](https://www.openbugbounty.org)
-#### 7. [GH ACE](https://github.com/dastergon/awesome-chaos-engineering)
+* See security related item in the following repo [[7](../references/#37-gh-ace)].
 
