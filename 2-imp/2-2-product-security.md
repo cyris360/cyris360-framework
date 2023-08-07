@@ -11,7 +11,7 @@
 ## 2.2.1. Security Requirements
 **Objectives**:
 * Define a set of security requirements for each product. 
-  * You can start with a subset of generic security requirements from OWASP [[1](#1-owasp-asvs),[2](#2-owasp-masvs)]. 
+  * You can start with a subset of generic security requirements from OWASP [[1](../references.md#24-owasp-asvs),[2](../references.md#25-owasp-masvs)]. 
   * Create your custom set requirements derived from your security policies & guidelines.
 * Define a process to verify the requirements are validated manually or automatically before the public release and periodically thereafter.
 
@@ -32,8 +32,8 @@
 ## 2.2.3. Secure Design
 
 **Objectives**:
-* Create threat models and update them regurargly or after every major or security-relevant change [[3](#3-threat-modeling-manifesto)].
-* Promote the use of reusable reference architecture that are secure by design, based on best practices from your cloud provider [[4](#4-aws-wat-security),[5](#5-microsoft-waf-security),[6](#6-google-caf-security)].
+* Create threat models and update them regurargly or after every major or security-relevant change [[3](../references.md#26-threat-modeling-manifesto)].
+* Promote the use of reusable reference architecture that are secure by design, based on best practices from your cloud provider [[4](../references.md#27-aws-wat-security),[5](../references.md#28-microsoft-waf-security),[6](../references.md#29-google-caf-security)].
 
 ## 2.2.4. Secure Implementation
 **Objectives**:
@@ -55,14 +55,5 @@
 **Objectives**:
 * Define a formal release process with a checklist of relevant preconditions prior to promoting the application to public use.
 * Sign the deliverable code using the organization's cryptographic key and make sure it is verified before processing any senstive data.
-* Ensure secure operation of customer identity and access management (CIAM) [[7](#7-ciam)]
+* Ensure secure operation of customer identity and access management (CIAM) [[7](../references.md#30-ciam)]
 * Set up the approporiate security logging and monitoring. 
-
-## Reference
-#### 1. [OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/)
-#### 2. [OWASP MASVS](https://mas.owasp.org/MASVS/)
-#### 3. [Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org/)
-#### 4. [AWS WAT Security](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar)
-#### 5. [Microsoft WAF Security](https://learn.microsoft.com/en-us/azure/architecture/framework/security/)
-#### 6. [Google CAF Security](https://cloud.google.com/architecture/framework/security)
-#### 7. [CIAM](https://www.cyberark.com/what-is/ciam/)
