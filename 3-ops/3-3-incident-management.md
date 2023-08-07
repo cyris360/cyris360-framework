@@ -6,7 +6,7 @@
 * [3.3.2 Containment, Eradication & Recovery](#332-containment-eradication--recovery)
 * [3.3.3 Post-incident activity](#333-post-incident-activity)
 
-**Note:** The content in the following subsections is aligned with the following guides [[1](#1-nist-sp-800-61r2),[2](#2-cisa-ivrp)].
+**Note:** The content in the following subsections is aligned with the following guides [[1](../references.md#1-nist-sp-800-61r2),[2](../references.md#2-cisa-ivrp)].
 
 ### 3.3.1 Preparation, Detection & Analysis
 * Prepare the relevent contact details and define the relevant policies & processes to handle potential incident.
@@ -23,6 +23,3 @@
 * Draft the post mortem report and request a review from relevant stackholders.
 * Discuss possible changes to reduce the likeliyhood of similar incidents in the future.
 
-## References
-#### 1. [NIST SP 800-61r2](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final)
-#### 2. [CISA I&VRP](https://www.cisa.gov/sites/default/files/publications/Federal_Government_Cybersecurity_Incident_and_Vulnerability_Response_Playbooks_508C.pdf)
