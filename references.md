@@ -1,5 +1,7 @@
 ## References
 
+### Governance
+
 #### 1. [NIST.IR 8286](https://doi.org/10.6028/NIST.IR.8286)
 #### 2. [EU RMF ENISA](https://www.enisa.europa.eu/publications/interoperable-eu-risk-management-framework)
 #### 3. [Security OKRs](https://alsmola.medium.com/building-effective-security-okrs-94f249230a39)
@@ -15,6 +17,9 @@
 #### 13. [NIST SP 800-53 rev5](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
 #### 14. [CIS Critical Security Controls](https://www.cisecurity.org/controls)
 #### 15. [CSA Cloud Controls Matrix](https://cloudsecurityalliance.org/research/cloud-controls-matrix/)
+
+### Implementation
+
 #### 16. [SANS CSSR](https://www.sans.org/cyber-security-skills-roadmap)
 #### 17. [Paul Jerimy SCR](https://pauljerimy.com/security-certification-roadmap/)
 #### 18. [SOC](https://www.isaca.org/resources/isaca-journal/issues/2021/volume-5/the-evolution-of-security-operations-and-strategies-for-building-an-effective-soc)
@@ -30,6 +35,9 @@
 #### 28. [Microsoft WAF Security](https://learn.microsoft.com/en-us/azure/architecture/framework/security/)
 #### 29. [Google CAF Security](https://cloud.google.com/architecture/framework/security)
 #### 30. [CIAM](https://www.cyberark.com/what-is/ciam/)
+
+### Operations
+
 #### 31. [PTES](http://www.pentest-standard.org/index.php/PTES_Technical_Guidelines)
 #### 32. [What is pentest](https://www.synopsys.com/glossary/what-is-penetration-testing.html)
 #### 33. [PT MM](https://github.com/5bhuv4n35h/pentestmindmap)
@@ -37,5 +45,10 @@
 #### 35. [Security.txt](https://securitytxt.org)
 #### 36. [OBB](https://www.openbugbounty.org)
 #### 37. [GH ACE](https://github.com/dastergon/awesome-chaos-engineering)
-#### 38. [NIST SP 800-61r2](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final)
-#### 39. [CISA I&VRP](https://www.cisa.gov/sites/default/files/publications/Federal_Government_Cybersecurity_Incident_and_Vulnerability_Response_Playbooks_508C.pdf)
+#### 38. [SSL Test](https://www.ssllabs.com/ssltest/)
+#### 39. [CMDB](https://www.atlassian.com/itsm/it-asset-management/cmdb)
+#### 40. [UES](https://expertinsights.com/insights/what-is-unified-endpoint-security/)
+#### 41. [NCSC early warning](https://www.earlywarning.service.ncsc.gov.uk/)
+#### 42. [CISA exploited vulnerabilties](https://public.govdelivery.com/accounts/USDHSCISA/subscriber/new)
+#### 43. [NIST SP 800-61r2](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final)
+#### 44. [CISA I&VRP](https://www.cisa.gov/sites/default/files/publications/Federal_Government_Cybersecurity_Incident_and_Vulnerability_Response_Playbooks_508C.pdf)
