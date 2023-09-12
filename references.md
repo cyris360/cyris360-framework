@@ -52,3 +52,11 @@
 #### 42. [CISA exploited vulnerabilties](https://public.govdelivery.com/accounts/USDHSCISA/subscriber/new)
 #### 43. [NIST SP 800-61r2](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final)
 #### 44. [CISA I&VRP](https://www.cisa.gov/sites/default/files/publications/Federal_Government_Cybersecurity_Incident_and_Vulnerability_Response_Playbooks_508C.pdf)
+
+### Appendices
+
+#### 45. [CISA Insider Threats](https://www.cisa.gov/topics/physical-security/insider-threat-mitigation)
+#### 46. [SPS Case studies](https://www.signpostsix.com/insights/case-studies/)
+#### 47. [ENISA SCA](https://www.enisa.europa.eu/publications/threat-landscape-for-supply-chain-attacks)
+#### 48. [MITRE Attack groups](https://attack.mitre.org/groups/)
+#### 49. [Mandiant APT](https://www.mandiant.com/resources/insights/apt-groups)
