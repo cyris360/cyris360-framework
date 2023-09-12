@@ -60,3 +60,4 @@
 #### 47. [ENISA SCA](https://www.enisa.europa.eu/publications/threat-landscape-for-supply-chain-attacks)
 #### 48. [MITRE Attack groups](https://attack.mitre.org/groups/)
 #### 49. [Mandiant APT](https://www.mandiant.com/resources/insights/apt-groups)
+#### 50. [Natural Disasters](https://ourworldindata.org/natural-disasters)
