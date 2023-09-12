@@ -62,3 +62,4 @@
 #### 49. [Mandiant APT](https://www.mandiant.com/resources/insights/apt-groups)
 #### 50. [Natural Disasters](https://ourworldindata.org/natural-disasters)
 #### 51. [PWC Industrial Espionnage](https://www.pwc.com/it/it/publications/docs/study-on-the-scale-and-Impact.pdf)
+#### 52. [Ransomeware Stats](https://www.statista.com/statistics/204457/businesses-ransomware-attack-rate/)
