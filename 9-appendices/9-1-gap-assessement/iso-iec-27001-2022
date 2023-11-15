@@ -1,0 +1,68 @@
+## Instructions
+This gap analysis document provides a simple framework for evaluation the current status of a CSMS according to ISO/IEC27001:2022 standard. 
+The status column is marked by one of the following identifiers:
+* V: Validated ; The associated item is compliant with the standard.
+* P: Partial ; The associated item is partially compliant with the standard.
+* M: Missing ; The associated item is NOT compliant with the standard.
+* N/A: The associated item is not applicable.
+
+The evidence shall be provided by the target user, while optional comment maybe added by the target user or the assessor.
+
+## Part 1: Requirements
+
+### Chapter 5: Leadership
+
+| Requirement                          | Status (V, P, M, N/A)   | Evidence | Comments      |
+|:-------------------------------------|-------------------------|----------|---------------|
+| 5.1 Leadership and Commitment                                                             |
+| 5.2 Policy                                                                                |
+| 5.3 Organizational roles, responsabilities and authorities                                |
+
+### Chapter 6: Planning 
+
+| Requirement                          | Status (V, P, M, N/A)   | Evidence | Comments      |
+|:-------------------------------------|-------------------------|----------|---------------|
+| 6.1 Actions to address risks and opportunities                                            |
+| 6.2 Information security objectives and planning to achieve them                          |
+
+### Chapter 7: Support
+
+| Requirement                          | Status (V, P, M, N/A)   | Evidence | Comments      |
+|:-------------------------------------|-------------------------|----------|---------------|
+| 7.1 Resources                                                                             |
+| 7.2 Competence                                                                            |
+| 7.3 Awareness                                                                             |
+| 7.4 Comminication                                                                         |
+| 7.5 Documented information                                                                |
+
+### Chapter 8: Operation
+
+| Requirement                          | Status (V, P, M, N/A)   | Evidence | Comments      |
+|:-------------------------------------|-------------------------|----------|---------------|
+| 8.1 Operational planning and control                                                      |
+| 8.2 Information security risk assessment                                                  |
+| 8.3 Information security risk treatment                                                   |
+
+### Chapter 9: Performance evaluation
+
+| Requirement                          | Status (V, P, M, N/A)   | Evidence | Comments      |
+|:-------------------------------------|-------------------------|----------|---------------|
+| 9.1 Monitoring, measurement, analysis and evaluation
+| 9.2 Internal audit
+
+### Chapter 10: Improvement
+
+| Requirement                          | Status (V, P, M, N/A)   | Evidence | Comments      |
+|:-------------------------------------|-------------------------|----------|---------------|
+| 10.1 Continual improvement
+| 10.1 Nonconformity and corrective action
+
+## Part 2: Controls
+
+### 5. Organizational controls
+
+### 6. People controls
+
+### 7. Physical controls
+
+### 8. Technological controls
