@@ -14,7 +14,7 @@ The first step in risk assessment is to define the scope from multiple perspecti
 The effort required for this activity can be estimated between 1 to 5 Man Days. The size of the organization usually has no direct impact on the effort needed for this step. 
 
 ### 1.2. Gap and risk assessment
-Based on the outcome of the the previous step, you can perform the threat assessment on the relevant threat scenarios (See: [Catalogue of threat scenarios](/9-appendices/1-catalogue-threat-scenarios.md)).
+Based on the outcome of the the previous step, you can perform the threat assessment on the relevant threat scenarios (See: [Catalogue of threat scenarios](/9-appendices/9-2-catalogue-threat-scenarios/README.md)).
 
 The gap assessment can be executed by internal or external parties. The main criteria for choosing who can perform a specific assessment are: Qualification and Independance. Other criteria might also influence the choice to certain degree, such as costs and trust. If the assessment if performed internally, the conflict of interest should be prevented (for example, by performing peer review). 
 
