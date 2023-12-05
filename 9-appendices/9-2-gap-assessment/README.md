@@ -4,5 +4,6 @@
 * [ISO/IEC 27002:2022 Information security controls](iso-iec-27002-2022.md)
 * [ISO 22301:2019 Security and resilience - BCMS](iso-22301-2019.md)
 * [ISO/SAE 21434:2021 Road vehicles - Cybersecurity engineering](iso-sae-21434-2021.md)
+* [ISO 24089:2023 Road vehicles - Software update engineering](iso-24089.md)
 * [ENX TISAX - Information Security Assessment](enx-tisax-isa.md)
 * [ENX TISAX - Vehicle Cyber Security Assessment](enx-tisax-vcsa.md)
