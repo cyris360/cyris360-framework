@@ -45,6 +45,7 @@ The evidence shall be provided by the target user, while optional comment maybe 
 
 
 ### 5. Concept and Product development Phase
+
 | Requirement                          | Status (P, CP, F)  | Evidence      | Comments      |
 |:-------------------------------------|--------------------|---------------|---------------|
 | 5.1 Are processes established to define the item and specify cybersecurity requirements?  |
