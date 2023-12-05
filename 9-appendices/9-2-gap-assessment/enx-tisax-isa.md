@@ -47,6 +47,7 @@ The evidence shall be provided by the target user, while optional comment maybe 
 | 4.2 Access Management                                                                     |
 
 ### 5. IT Security / Cyber Security
+
 | Requirement                          | Status (0-5)       | Evidence      | Comments      |
 |:-------------------------------------|--------------------|---------------|---------------|
 | 5.1 Cryptography                                                                          |
