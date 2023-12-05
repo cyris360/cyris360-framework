@@ -49,19 +49,19 @@ The evidence shall be provided by the target user, while optional comment maybe 
 ### 5. IT Security / Cyber Security
 | Requirement                          | Status (0-5)       | Evidence      | Comments      |
 |:-------------------------------------|--------------------|---------------|---------------|
-| 5.1 Cryptography
-| 5.2 Operations Security
-| 5.3 System acquisitions, requirement management and development
+| 5.1 Cryptography                                                                          |
+| 5.2 Operations Security                                                                   |
+| 5.3 System acquisitions, requirement management and development                           |
 
 ### 6. Supplier Relationships
 
 | Requirement                          | Status (0-5)       | Evidence      | Comments      |
 |:-------------------------------------|--------------------|---------------|---------------|
-| 6.1 Supplier Relationships
+| 6.1 Supplier Relationships                                                                |
 
 ### 7. Compliance
 
 | Requirement                          | Status (0-5)       | Evidence      | Comments      |
 |:-------------------------------------|--------------------|---------------|---------------|
-| 7.1 Compliance
+| 7.1 Compliance                                                                            |
 
