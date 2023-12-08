@@ -6,7 +6,7 @@
 * [3.3.2 Containment, Eradication & Recovery](#332-containment-eradication--recovery)
 * [3.3.3 Post-incident activity](#333-post-incident-activity)
 
-**Note:** The content in the following subsections is aligned with the following guides [[1](../references.md#38-nist-sp-800-61r2),[2](../references.md#39-cisa-ivrp)].
+**Note:** The content in the following subsections is aligned with the following guides [[13](../references.md#313-nist-sp-800-61r2),[14](../references.md#314-cisa-ivrp),[15](../references.md#315-iso27035)].
 
 ### 3.3.1 Preparation, Detection & Analysis
 * Prepare the relevent contact details and define the relevant policies & processes to handle potential incident.
