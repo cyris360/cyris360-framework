@@ -20,4 +20,4 @@ This type of training is relevant for employee who are involved in building and 
 * Secure Software Development Lifecycle
 * Technologie specific (Mobile/Web App)
 
-For more details about specialized and role-based security training topics, please check the following resources [[1](../references.md#16-sans-cssr),[2](../references.md#17-paul-jerimy-scr)]
+For more details about specialized and role-based security training topics, please check the following resources [[16](../references.md#116-sans-cssr),[17](../references.md#117-paul-jerimy-scr)]
