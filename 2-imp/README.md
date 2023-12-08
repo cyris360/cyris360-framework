@@ -1,6 +1,6 @@
 # 2. Cyber Risk Implementation
 
-Traditionally, security engineering usually refer to keeping malicious actors away from your organization's infrastructure. This usually refers to corporate security. Another aspect of cybersecurity emerges from the need to design, implement and release secure product, with an additional focus on the security from the end-user's perspective. Depending on your organization and the type of products delivered, the these domains might partially overlap [[1](#1-corp-vs-prod-security-sans)].
+Traditionally, security engineering usually refer to keeping malicious actors away from your organization's infrastructure. This usually refers to corporate security. Another aspect of cybersecurity emerges from the need to design, implement and release secure product, with an additional focus on the security from the end-user's perspective. Depending on your organization and the type of products delivered, the these domains might partially overlap [[1](../references.md#21-corp-vs-prod-security-sans)].
 
 ## [2.1 Corporate security](2-1-corporate-security.md)
 Regardless of whether your infrastrcture is hosted on the cloud or on premises, there are some generic security considerations. When your infrastrure is hosted on the cloud, the shared responsability model specifies the scope of each party. 
@@ -22,6 +22,3 @@ The following activities are part of product security:
 * 2.2.4 Secure Implementation 
 * 2.2.5 Secure Testing 
 * 2.2.6 Secure Release and Deployment
-
-## References
-#### 1. [Corp vs Prod Security SANS](https://www.sans.org/white-papers/34237/)
