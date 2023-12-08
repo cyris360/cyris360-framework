@@ -22,19 +22,20 @@
 
 ### 2-Implementation
 
-#### 2.1 [SOC](https://www.isaca.org/resources/isaca-journal/issues/2021/volume-5/the-evolution-of-security-operations-and-strategies-for-building-an-effective-soc)
-#### 2.2 [UEM](https://www.gartner.com/reviews/market/unified-endpoint-management-tools)
-#### 2.3 [DLP](https://reciprocity.com/blog/best-practices-for-data-loss-prevention)
-#### 2.4 [IAM](https://www.cyberark.com/what-is/iam/)
-#### 2.5 [SM](https://www.g2.com/categories/secrets-management-tools)
-#### 2.6 [CSPM](https://www.aquasec.com/cloud-native-academy/cspm/cloud-security-solutions-cwpp-cspm-casb-and-more/#CSPM)
-#### 2.7 [OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/)
-#### 2.8 [OWASP MASVS](https://mas.owasp.org/MASVS/)
-#### 2.9 [Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org/)
-#### 2.10 [AWS WAT Security](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar)
-#### 2.11 [Microsoft WAF Security](https://learn.microsoft.com/en-us/azure/architecture/framework/security/)
-#### 2.12 [Google CAF Security](https://cloud.google.com/architecture/framework/security)
-#### 3.13 [CIAM](https://www.cyberark.com/what-is/ciam/)
+#### 2.1 [Corp vs Prod Security SANS](https://www.sans.org/white-papers/34237/)
+#### 2.2 [SOC](https://www.isaca.org/resources/isaca-journal/issues/2021/volume-5/the-evolution-of-security-operations-and-strategies-for-building-an-effective-soc)
+#### 2.3 [UEM](https://www.gartner.com/reviews/market/unified-endpoint-management-tools)
+#### 2.4 [DLP](https://reciprocity.com/blog/best-practices-for-data-loss-prevention)
+#### 2.5 [IAM](https://www.cyberark.com/what-is/iam/)
+#### 2.6 [SM](https://www.g2.com/categories/secrets-management-tools)
+#### 2.7 [CSPM](https://www.aquasec.com/cloud-native-academy/cspm/cloud-security-solutions-cwpp-cspm-casb-and-more/#CSPM)
+#### 2.8 [OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/)
+#### 2.9 [OWASP MASVS](https://mas.owasp.org/MASVS/)
+#### 2.10 [Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org/)
+#### 2.11 [AWS WAT Security](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar)
+#### 2.12 [Microsoft WAF Security](https://learn.microsoft.com/en-us/azure/architecture/framework/security/)
+#### 2.13 [Google CAF Security](https://cloud.google.com/architecture/framework/security)
+#### 3.14 [CIAM](https://www.cyberark.com/what-is/ciam/)
 
 ### 3-Operations
 
