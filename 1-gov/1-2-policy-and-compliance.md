@@ -22,9 +22,9 @@
 * Choose a set of controls that are applicable and aligned with your objectives.
 
 **Control Frameworks**:
-* ISO27002 Controls [[10](../references.md#10-iso27002-controls)]
-* SOC2 [[11](../references.md#11-soc2)]
-* NIST Cybersecurity Framework (CSF) [[12](../references.md#12-nist-cybersecurity-framework)]
-* NIST SP 800-53 rev5 [[13](../references.md#12-nist-sp-800-53-rev5)]
-* CIS Critical Security Controls [[14](../references.md#14-cis-critical-security-controls)]
-* CSA Cloud Controls Matrix (CSA CCM) [[15](../references.md#15-csa-cloud-controls-matrix)]
+* ISO27002 Controls [[10](../references.md#110-iso27002-controls)]
+* SOC2 [[11](../references.md#111-soc2)]
+* NIST Cybersecurity Framework (CSF) [[12](../references.md#112-nist-cybersecurity-framework)]
+* NIST SP 800-53 rev5 [[13](../references.md#112-nist-sp-800-53-rev5)]
+* CIS Critical Security Controls [[14](../references.md#114-cis-critical-security-controls)]
+* CSA Cloud Controls Matrix (CSA CCM) [[15](../references.md#115-csa-cloud-controls-matrix)]
