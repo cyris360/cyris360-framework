@@ -26,12 +26,12 @@
 ## 1.1.2. Risks & Objectives 
 
 **Objectives:**
-* Depending on your context & strategy, evaluate the current risks [[1](../references.md#1-nistir-8286),[2](../references.md#2-eu-rmf-enisa)]. These Risks might be related to different catgories, such as: security, privacy, safety, financial, operational, compliance, etc.
-* Define a set of projects, and estimate the allocated resources (budget & staff), the required skills, an associated metric and the success criteria [[3](../references.md#3-security-okrs)].
-* You can assign the projects (partially or entirely) to your existing staff. You can expand the capacity of security team by leveraging the concept of security champions [[4](../references.md#4-scsg),[5](../references.md#5-owasp-scg)].
-* You can also consider outsourcing the projects (partially or entirely) [[6](../references.md#6-techtarget)].
+* Depending on your context & strategy, evaluate the current risks [[1](../references.md#11-nistir-8286),[2](../references.md#12-eu-rmf-enisa)]. These Risks might be related to different catgories, such as: security, privacy, safety, financial, operational, compliance, etc.
+* Define a set of projects, and estimate the allocated resources (budget & staff), the required skills, an associated metric and the success criteria [[3](../references.md#13-security-okrs)].
+* You can assign the projects (partially or entirely) to your existing staff. You can expand the capacity of security team by leveraging the concept of security champions [[4](../references.md#14-scsg),[5](../references.md#15-owasp-scg)].
+* You can also consider outsourcing the projects (partially or entirely) [[6](../references.md#16-techtarget)].
 
-**Hint/Caveat**: When hiring a cybersecurity professional, you can use the [[7](../references.md#7-ecsf-enisa),[8](../references.md#8-ecsf-sans)] to define the role.
+**Hint/Caveat**: When hiring a cybersecurity professional, you can use the [[7](../references.md#17-ecsf-enisa),[8](../references.md#18-ecsf-sans)] to define the role.
 
 ## 1.1.3. Dashboard & Management review 
 
@@ -41,5 +41,5 @@
 * Report to senior management: Discuss risk trends and the effectiveness of the current startegy.
 * If needed: Consider adjusting the risk apetite and/or the objectives.
 
-**Caveat**: Measuring the RoSI on cybersecurity projects is very challenging, and depends on a number of estimations and approxiamtions [[9](../references.md#9-rosi-enisa)].
+**Caveat**: Measuring the RoSI on cybersecurity projects is very challenging, and depends on a number of estimations and approxiamtions [[9](../references.md#19-rosi-enisa)].
 
