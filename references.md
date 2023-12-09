@@ -35,7 +35,7 @@
 #### 2.11 [AWS WAT Security](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar)
 #### 2.12 [Microsoft WAF Security](https://learn.microsoft.com/en-us/azure/architecture/framework/security/)
 #### 2.13 [Google CAF Security](https://cloud.google.com/architecture/framework/security)
-#### 3.14 [CIAM](https://www.cyberark.com/what-is/ciam/)
+#### 2.14 [CIAM](https://www.cyberark.com/what-is/ciam/)
 
 ### 3-Operations
 
