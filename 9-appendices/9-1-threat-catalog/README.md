@@ -1,6 +1,6 @@
 ## A1 - Catalogue of threat scenarios
 
-There are multiple sources and taxonomies for threat scenarios, including MITRE CAPEC [1](../references.md#91-mitre-capec). The sections below is just an example of threat scenarios. You can customize it depending on the needs and context of your business or product/service. 
+There are multiple sources and taxonomies for threat scenarios, including MITRE CAPEC [[1](../references.md#91-mitre-capec)]. The sections below is just an example of threat scenarios. You can customize it depending on the needs and context of your business or product/service. 
 
 ### A1.1. Compromise of business asset 
 1. Inadequate incident detection & response process
