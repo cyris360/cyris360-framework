@@ -63,7 +63,8 @@
 #### 9.4 [Natural Disasters](https://ourworldindata.org/natural-disasters)
 #### 9.5 [CISA Insider Threats](https://www.cisa.gov/topics/physical-security/insider-threat-mitigation)
 #### 9.6 [SPS Case studies](https://www.signpostsix.com/insights/case-studies/)
-#### 9.4 [MITRE Attack groups](https://attack.mitre.org/groups/)
-#### 9.5 [Mandiant APT](https://www.mandiant.com/resources/insights/apt-groups)
 #### 9.7 [PWC Industrial Espionnage](https://www.pwc.com/it/it/publications/docs/study-on-the-scale-and-Impact.pdf)
+#### 9.8 [MITRE Attack groups](https://attack.mitre.org/groups/)
+#### 9.9 [Mandiant APT](https://www.mandiant.com/resources/insights/apt-groups)
+
 
