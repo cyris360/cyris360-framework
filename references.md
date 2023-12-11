@@ -33,10 +33,12 @@
 #### 2.8 [OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/)
 #### 2.9 [OWASP MASVS](https://mas.owasp.org/MASVS/)
 #### 2.10 [Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org/)
-#### 2.11 [AWS WAT Security](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar)
-#### 2.12 [Microsoft WAF Security](https://learn.microsoft.com/en-us/azure/architecture/framework/security/)
-#### 2.13 [Google CAF Security](https://cloud.google.com/architecture/framework/security)
-#### 2.14 [CIAM](https://www.cyberark.com/what-is/ciam/)
+#### 2.11 [STRIDE-LM](https://csf.tools/reference/stride-lm/)
+#### 2.12 [STRIDE-GPT](https://github.com/mrwadams/stride-gpt)
+#### 2.13 [AWS WAT Security](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar)
+#### 2.14 [Microsoft WAF Security](https://learn.microsoft.com/en-us/azure/architecture/framework/security/)
+#### 2.15 [Google CAF Security](https://cloud.google.com/architecture/framework/security)
+#### 2.16 [CIAM](https://www.cyberark.com/what-is/ciam/)
 
 ### 3-Operations
 
