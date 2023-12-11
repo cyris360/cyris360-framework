@@ -18,10 +18,10 @@
 * Define the appropriate security measures to protect access to the build toolchain and environment.
 * Access and contribution to source code shall be formally defined.
 * Make sure all secrets are fetched from secure location and protected against excessive exposure.
-* Backup your source code periodically.
-* Create threat models and update them regurargly or after every major or security-relevant change [[10](../references.md#210-threat-modeling-manifesto)].
-* Promote the use of reusable reference architecture that are secure by design, based on best practices from your cloud provider [[11](../references.md#211-aws-wat-security),[12](../references.md#212-microsoft-waf-security),[13](../references.md#213-google-caf-security)].
+* Create threat models and update them regurargly or after every major or security-relevant change [[10](../references.md#210-threat-modeling-manifesto),[11](../references.md#211-stride-lm),[12](../references.md#212-stride-gpt)].
+* Promote the use of reusable reference architecture that are secure by design, based on best practices from your cloud provider [[13](../references.md#213-aws-wat-security),[14](../references.md#214-microsoft-waf-security),[15](../references.md#215-google-caf-security)].
 * Use a secret scanner, code quality, and Static Application Security Testing (SAST) tools to scan your code for potentially vulnerable code patterns.
+* Ensure your source code is saved in alternate location periodically, with equivalent controls.
 * Elaborate a security testing strategy depending on the risk and available budget.
 * Create sceanrio-based test plans based on the predefined threat model, or threats scenarios applicable to similar products.
 * Perform generic testing (such as fuzzing) to address residual risk from scenarios that are not addressed in existing test plans. 
@@ -33,6 +33,6 @@
 **Objectives**:
 * Define a formal release process with a checklist of relevant preconditions prior to promoting the application to production environment.
 * Sign the deliverable code and make sure any code running on external environment is verified (for integrity & authenticity) before processing any senstive data.
-* Ensure secure operation of customer identity and access management (CIAM) [[14](../references.md#214-ciam)]
+* Ensure secure operation of customer identity and access management (CIAM) [[16](../references.md#216-ciam)]
 * Set up the approporiate security logging and monitoring.
 * Define the appropriate protection layers for APIs, including use of CDN with Web Application and API Protection (WAAP). 
