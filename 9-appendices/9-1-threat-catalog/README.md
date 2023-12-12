@@ -17,7 +17,7 @@ There are multiple sources and taxonomies for threat scenarios, including MITRE 
 
 ### A1.3. Supply chain / Third party risks 
 1. Shadow IT (Unregistred/Unmanaged vendors)
-2. Disclosure of (sensitive) information via third party [[3](../../references.md#93-enisa-sca)]
+2. Disclosure of (sensitive) information via third party [[3](../../references.md#93-enisa-sca),[4](../../references.md#94-ncsc-nl-sc)]
 3. Misuse of (Network/system) access granted to thrid party
 4. Failure to comply with contractual agreement
 5. Vendor bankruptcy
@@ -25,17 +25,17 @@ There are multiple sources and taxonomies for threat scenarios, including MITRE 
 ### A1.4. Physical threats
 1. Safety hazard (Fire, Pollution, Pandemic)
 2. Theft, Vandalism, Sabotage 
-3. Natural disaster (Earthquake, Flood, Storm)[[4](../../references.md#94-natural-disasters)]
+3. Natural disaster (Earthquake, Flood, Storm)[[5](../../references.md#95-natural-disasters)]
 4. Loss of utilities (Energy, Internet connectivity)
 
-### A1.5. People / Insider threats [[5](../../references.md#95-cisa-insider-threats),[6](../../references.md#96-sps-case-studies)]
+### A1.5. People / Insider threats 
 1. Lack of security awareness (Social Engineering, Phishing)
 2. Fraud, Tampering, Collusion
-3. Industrial espionnage [[7](../../references.md#97-pwc-industrial-espionnage)]
+3. Industrial espionnage [[6](../../references.md#96-cisa-insider-threats),[7](../../references.md#97-sps-case-studies),[8](../../references.md#98-pwc-industrial-espionnage)]
 4. Incapacity/Inability to work
 
 ### A1.6. Environmental, Regulatory, Sectorial, Regional, and Geopolitical threats
-1. State-sponsored Attacks/Threats (APTs) [[8](../../references.md#98-mitre-attack-groups),[9](../../references.md#99-mandiant-apt)]
+1. State-sponsored Attacks/Threats (APTs) [[9](../../references.md#99-mitre-attack-groups),[10](../../references.md#910-mandiant-apt)]
 2. Violation of applicable reguations (Penalty, Damage to reputation)
 3. Change of regulations leading to undesirable outcome
 4. Financial & Economic disruption/instability
