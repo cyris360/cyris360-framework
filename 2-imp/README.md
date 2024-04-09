@@ -6,11 +6,10 @@ Traditionally, security engineering usually refer to keeping malicious actors aw
 Regardless of whether your infrastrcture is hosted on the cloud or on premises, there are some generic security considerations. When your infrastrure is hosted on the cloud, the shared responsability model specifies the scope of each party. 
 
 The following activities are part of the responsability of corporate security: 
-* 2.1.1 Network Security
-* 2.1.2 Data Protection
-* 2.1.3 Identity and Access Management (for employees)
-* 2.1.4 Secret Management
-* 2.1.5 Cloud Security Posture Management
+* 2.1.1 Network & Infrastructure Security
+* 2.1.2 Enterprise Identity and Access Management
+* 2.1.3 Data Loss Prevention (DLP)
+* 2.1.4 Building a Security Operation Center (SOC)
 
 ## [2.2 Product security](2-2-product-security.md)
 A product might be running entirely in your own environment (API/Online service), in an external environment (Offline mobile app) or a combination of both (Web application/Connected mobile app). In all cases, you need to adopt a secure software development lifecycle specific to your product portfolio. The main difference lies in the operation step. 
