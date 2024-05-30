@@ -54,7 +54,7 @@
 #### 3.10 [UES](https://expertinsights.com/insights/what-is-unified-endpoint-security/)
 #### 3.11 [NCSC early warning](https://www.earlywarning.service.ncsc.gov.uk/)
 #### 3.12 [CISA exploited vulnerabilties](https://public.govdelivery.com/accounts/USDHSCISA/subscriber/new)
-#### 3,13 [Patch This](https://patchthis.app/)
+#### 3.13 [Patch This](https://patchthis.app/)
 #### 3.14 [NIST SP 800-61r2](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final)
 #### 3.15 [CISA I&VRP](https://www.cisa.gov/sites/default/files/publications/Federal_Government_Cybersecurity_Incident_and_Vulnerability_Response_Playbooks_508C.pdf)
 #### 3.16 [ISO27035](https://www.iso27001security.com/html/27035.html)
