@@ -1,6 +1,6 @@
 # Getting started
 
-This guide is dedicated to target organizations who are interested in managing cyber risks efficiently. The use of CRF framework is highly customizable, and can be implemented in an incremental way. you can If you need to demonstrate to relevant stakeholders that your organization manage cyber risks in a consistent manner, there will be additional steps to do so via external (independant) party. 
+This guide is dedicated to target organizations who are interested in managing cyber risks efficiently. The use of CRF framework is highly customizable, and can be implemented in an incremental way. If you need to demonstrate to relevant stakeholders that your organization manage cyber risks in a consistent manner, there will be additional steps to do so via external (independant) party. 
 
 ## 1. Process
 
